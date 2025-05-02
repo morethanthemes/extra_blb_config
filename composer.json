@@ -1,0 +1,12 @@
+{
+  "name": "drupal/extra_blb_config",
+  "description": "Adds Mt Layout builder.",
+  "type": "drupal-recipe",
+  "require": {
+    "drupal/core": ">=10.4",
+    "drupal/bootstrap_layout_builder": "^2.2",
+    "drupal/layout_builder_blocks": "^1.0",
+    "drupal/layout_builder_modal": "^1.1",
+    "drupal/layout_builder_restrictions": "^3.0"
+  }
+}
