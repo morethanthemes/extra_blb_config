@@ -1,5 +1,5 @@
 {
-  "name": "drupal/extra_blb_config",
+  "name": "morethanthemes/extra_blb_config",
   "description": "Adds Mt Layout builder.",
   "type": "drupal-recipe",
   "require": {
